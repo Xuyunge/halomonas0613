@@ -1,0 +1,5 @@
+ko00030	Metabolism 	Carbohydrate metabolism 	Pentose phosphate pathway
+ko00220	Metabolism 	Amino acid metabolism 	Arginine biosynthesis
+ko00362	Metabolism 	Xenobiotics biodegradation and metabolism 	Benzoate degradation
+ko00540	Metabolism 	Glycan biosynthesis and metabolism 	Lipopolysaccharide biosynthesis
+ko00910	Metabolism 	Energy metabolism 	Nitrogen metabolism
